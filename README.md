@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development Project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sourabh-Singh-01](https://github.com/Sourabh-Singh-01)
+- 👨‍💻 All of my projects are available at [https://github.com/shashankcode-545](https://github.com/Sourabh-Singh-01)
 
 - 💬 Ask me about **HTML, CSS, Tailwind CSS, JS, Node.js, SQL, MongoDb, React, Express**
 
