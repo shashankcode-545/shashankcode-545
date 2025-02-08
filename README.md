@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shashank Sharma</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
-- 🌱 I’m currently learning **Data Structure and Algorithms**
+- 🌱 I’m currently learning **Web Development & DSA**
 
 - 👯 I’m looking to collaborate on **Web Development Project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shashankcode-545](https://github.com/Sourabh-Singh-01)
+- 👨‍💻 All of my projects are available at [https://github.com/shashankcode-545](https://github.com/shashankcode-545)
 
 - 💬 Ask me about **HTML, CSS, Tailwind CSS, JS, Node.js, SQL, MongoDb, React, Express**
 
