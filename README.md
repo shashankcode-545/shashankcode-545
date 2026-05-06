@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shashank Sharma</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h3 align="center">A passionate AI/ML Developer from India</h3>
 
-- 🌱 I’m currently learning **Web Development & DSA**
+- 🌱 I’m currently learning **DSA**
 
-- 👯 I’m looking to collaborate on **Web Development Project**
+- 👯 I’m looking to collaborate on **ML Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shashankcode-545](https://github.com/shashankcode-545)
 
