@@ -1,67 +1,114 @@
 <h1 align="center">Hi 👋, I'm Shashank Sharma</h1>
-<h3 align="center">A passionate AI/ML Developer from India</h3>
+<h3 align="center">
+AI/ML Engineer • Quant Research • Deep Learning
+</h3>
 
-- 🌱 I’m currently learning **DSA**
-
-- 👯 I’m looking to collaborate on **ML Project**
-
-- 👨‍💻 All of my projects are available at [https://github.com/shashankcode-545](https://github.com/shashankcode-545)
-
-- 💬 Ask me about **HTML, CSS, Tailwind CSS, JS, Node.js, SQL, MongoDb, React, Express**
-
-- 📫 How to reach me **shashanksharma07.09@gmail.com**
-
-
-<div align="center">
- 
-<!--   <h2>🐍 Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</div> -->
-
-<h2 align="center">Leetcode Info<h2>
-  <!--
 <p align="center">
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
-</p> -->
-<p align="center">
- 
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/shashank099?theme=dark&font=Nunito&ext=heatmap" />  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+ML+%2F+Quant+Research+Systems;Open+to+AI+ML+%26+Quant+Internships;Deep+Learning+%7C+Backtesting+%7C+Risk+Analytics" alt="Typing SVG"/>
 </p>
 
-
-
-<br/>
-  <h2 align="center">⚡ Current Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=shashankcode-545&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=shashankcode-545&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankcode-545&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-  <br/>
-
-<br/><br/>
-
-<h3 align="left">Connect with me:</h3>
-<br/>
-<p align="left">
-<a href="https://twitter.com/_sourabh_singh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_sourabh_singh1" height="30" width="40" />  &nbsp;&nbsp;</a>
-<a href="https://linkedin.com/in/sourabhsingh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourabhsingh1" height="30" width="40" /> &nbsp;&nbsp;</a>
-<a href="https://instagram.com/_sourabh_singh_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sourabh_singh_18" height="30" width="40" /> &nbsp;&nbsp;</a>
-<a href="https://www.hackerrank.com/sourabhnew01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sourabhnew01" height="30" width="40" /> &nbsp;&nbsp;</a>
-<a href="https://www.leetcode.com/sourabh_singh_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sourabh_singh_01" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/shashankcode-545">
+    <img src="https://komarev.com/ghpvc/?username=shashankcode-545&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://linkedin.com/in/shashank-sharma-ss0709">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0e75b6?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:shashanksharma07.09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-0e75b6?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=flat" alt="Open to Internships"/>
 </p>
 
-<br/>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<br/>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 🚀 About Me
 
-<br>
-<br>
-<br>
+- 🎓 3rd-year CS student, focused on **Machine Learning & Quantitative Finance**
+- 🔬 Building research-grade systems in **deep learning, backtesting, and risk analytics**
+- 🌱 Currently deepening **DSA, PyTorch, and systematic trading research**
+- 🤝 Open to **internships in AI/ML, Quant Research, and Data Science**
+- 💻 All my projects: **https://github.com/shashankcode-545**
+- 💬 Ask me about **ML, Deep Learning, Quant Finance, Python**
+- 📫 Reach me at **shashanksharma07.09@gmail.com**
+
+---
+
+## 🏗️ Featured Projects
+
+- **RAMT** — Regime-aware multi-asset tail risk framework using HMMs, XGBoost Quantile Regression, and Extreme Value Theory (EVT)
+- **PLEX** — High-frequency trading system with FPGA-based risk gates and reinforcement learning
+- **CreditSentinel** — ML credit risk pipeline for NSE stocks, with a two-stage regime-aware ranking architecture
+- **HF StatArb Blueprint** — Market microstructure research prototype for statistical arbitrage
+
+*(See pinned repos below for code, writeups, and design docs.)*
+
+---
+
+## 🧠 LeetCode
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/shashank099?theme=dark&font=Nunito&ext=heatmap"/>
+</p>
+
+---
+
+## ⚡ GitHub Stats
+
+<p align="center">
+<img height="170" src="https://streak-stats.demolab.com?user=shashankcode-545&theme=react&border_radius=10"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=shashankcode-545&show_icons=true&theme=react&rank_icon=github&border_radius=10&cache_seconds=1800"/>
+</p>
+
+<p align="center">
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=shashankcode-545&layout=compact&theme=react&langs_count=8&border_radius=10"/>
+</p>
+
+---
+
+## 🛠 Languages & Tools
+
+**Core**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript,git,github,linux,vscode"/>
+</p>
+
+**ML / Deep Learning**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn"/>
+</p>
+
+**Web / Backend**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,html,css"/>
+</p>
+
+---
+
+## 📊 GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shashankcode-545&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/shashank-sharma-ss0709">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+<a href="https://leetcode.com/YOUR-LEETCODE">
+<img src="https://cdn.simpleicons.org/leetcode" width="45"/>
+</a>
+<a href="https://twitter.com/YOUR-TWITTER">
+<img src="https://skillicons.dev/icons?i=twitter" height="45"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+⭐ If you like my work, consider starring my repositories.
+</p>
